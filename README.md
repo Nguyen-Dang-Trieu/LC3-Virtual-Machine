@@ -8,3 +8,6 @@ A ***virtual machine (VM)*** is an application that functions as a virtual compu
 
 ### How virtual machines work
 In the illustration below, a *non-virtualized computer* (e.g., physical machine) and a *virtualized computer* (e.g., virtual machine) are depicted.
+<p align="center">
+    <img src="./Images/1.png" width="400px" alt="">
+</p>
